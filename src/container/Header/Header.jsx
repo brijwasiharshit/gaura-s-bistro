@@ -12,9 +12,12 @@ const Header = () => (
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
       Nestled in the heart of Bhimtal, our cozy bistro offers a relaxed setting to sip, savor, and unwind. Whether you're craving a fresh brew, a hearty bite, or just a quiet corner with a view, Gaura's Bistro is your perfect escape.
       </p>
-      <button type="button" className="custom__button">
-        Explore Menu
-      </button>
+      <a href="https://68089e6d9705b6da86c71daa--incandescent-peony-7a99fa.netlify.app/" style={{ textDecoration: "none" }}>
+  <button type="button" className="custom__button">
+    Explore Menu
+  </button>
+</a>
+
     </div>
 
     <div className="app__wrapper_img">
