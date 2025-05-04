@@ -28,11 +28,6 @@
   text-align: right;
 }
 
-@media screen and (max-width: 650px) {
-  .app__aboutus-content_knife {
-    display: none;
-  }
-}
 
 .app__aboutus-content_knife {
   margin: 2rem 4rem;
