@@ -41,9 +41,9 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_work">
-        <h1 className="app__footer-headtext">Working Hours</h1>
-        <p className="p__opensans">Monday-Sunday:</p>
-        <p className="p__opensans">09:00 am - 09:00 am</p>
+        <h1 className="app__footer-headtext">Babugarh Hospitality</h1>
+        <p className="p__opensans">+91 98376 04745</p>
+        
 
       </div>
     </div>
