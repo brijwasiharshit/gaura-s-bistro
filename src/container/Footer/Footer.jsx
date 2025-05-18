@@ -6,12 +6,12 @@ import { FooterOverlay, Newsletter } from "../../components";
 import "./Footer.css";
 
 const Footer = () => (
-  <div className="app__footer section__padding" id="footer">
+  <div className="app__footer section__padding" >
     <FooterOverlay />
     <Newsletter />
 
     <div className="app__footer-links" >
-      <div className="app__footer-links_contact">
+      <div className="app__footer-links_contact" id="footer" >
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">9H83+FC3, Nishola, Kutani, Bhimtal, Mahargaon, Uttarakhand 263136</p>
         <p className="p__opensans">+91 7042091460</p>
