@@ -2,13 +2,13 @@ import images from './images';
 
 const wines = [
   {
-    title: ' Lemon Honey Ginger Tea',
-    price: '₹100',
+    title: 'Tea',
+    price: '₹60',
   
   },
   {
-    title: 'Cheese Maggi',
-    price: '₹150',
+    title: 'Cheese Omelette',
+    price: '₹180',
   
   },
   {
@@ -16,36 +16,36 @@ const wines = [
     price: '₹130',
   },
   {
-    title: 'Paneer Malai Tikka',
-    price: '390₹',
+    title: 'Chicken Fried Rice',
+    price: '280₹',
   },
   {
-    title: 'Butter Chicken ',
-    price: '590₹',
+    title: 'Honey Chilli Potato',
+    price: '300₹',
   
   },
 ];
 
 const cocktails = [
   {
-    title: 'Vanilla Shake',
-    price: '₹200'
-  },
-  {
-    title: "Oreo Shake",
-    price: '₹200'
-  },
-  {
-    title: 'Cold Coffee Ice Cream',
-    price: '₹180'
-  },
-  {
     title: 'Virgin Mojito',
-    price: '₹200',
+    price: '₹190'
   },
   {
-    title: 'Chocolate Ice Cream ',
-    price: '₹120'
+    title: "Blue Lagoon",
+    price: '₹190'
+  },
+  {
+    title: 'Pina Colada',
+    price: '₹280'
+  },
+  {
+    title: 'Green Apple',
+    price: '₹190',
+  },
+  {
+    title: 'Fresh Lime Water',
+    price: '₹160'
   },
 ];
 

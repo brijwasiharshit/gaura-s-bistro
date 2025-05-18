@@ -46,7 +46,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: "15px" }}>
-    <a href="https://68089e6d9705b6da86c71daa--incandescent-peony-7a99fa.netlify.app/" style={{ textDecoration: "none" }}>
+    <a href="https://menugauras.netlify.app/" style={{ textDecoration: "none" }}>
   <button type="button" className="custom__button">
     View More
   </button>
