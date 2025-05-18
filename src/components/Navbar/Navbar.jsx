@@ -25,7 +25,7 @@ const Navbar = () => {
         </li>
        
         <li className="p__opensans">
-          <a href="#contact">Contact</a>
+          <a href="#footer">Contact</a>
         </li>
       </ul>
     
@@ -61,7 +61,7 @@ const Navbar = () => {
               </li>
              
               <li className="p__opensans">
-                <a href="#contact" onClick={() => setToggleMenu(false)}>
+                <a href="#footer" onClick={() => setToggleMenu(false)}>
                   Contact
                 </a>
               </li>

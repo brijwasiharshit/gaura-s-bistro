@@ -19,7 +19,7 @@ const Testimonials = () => {
 
     <div class="app__testimonial-card">
       <div class="app__testimonial-content">
-        <h3 class="app__testimonial-name">Naveen Choudhary</h3>
+        <h3 class="app__testimonial-name">Naveen Chaudhary</h3>
         <p class="app__testimonial-text">
           Amazing ambience & great food quality. Staff is very cooperative service is great. Overall must visit restaurant while in Bhimtal.
         </p>
