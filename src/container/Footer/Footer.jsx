@@ -42,7 +42,7 @@ const Footer = () => (
 
       <div className="app__footer-links_work">
         <h1 className="app__footer-headtext">Babugarh Hospitality</h1>
-        <p className="p__opensans">Navdeep Choudhary - +91 98376 04745</p>
+        <p className="p__opensans">Navdeep Chaudhary - +91 98376 04745</p>
         
 
       </div>
